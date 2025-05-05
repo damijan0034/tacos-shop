@@ -60,7 +60,7 @@ textarea{
 }
 /* -------------- */
 
-@media (prefers-color-scheme: dark){
+/* @media (prefers-color-scheme: dark){
     :root{
         --BGCOLOR:#000;
         --BGCOLOR-FADE:gray;
@@ -68,7 +68,7 @@ textarea{
         --NAV-BGCOLOR:rgb(20,20,20);
         --HERO-COLOR:#333;
     }
-}
+} */
 
 /* UTILITY CLASSES */
 .offscreen{
